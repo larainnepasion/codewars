@@ -1,7 +1,7 @@
 # Codewars solutions
 
 ## About
-This repository i
+This repository contains my solutions to various Codewars katas. I take on at least one coding challenge a day to improve my algorithmic thinking and really also to have fun (it's slightly addicting)!
 
 ## Disclaimer
 - Codewarriors are strongly encouraged not to look at these until they have completed (or at least attempted) the kata themselves
