@@ -9,5 +9,5 @@ This repository contains my solutions to various Codewars katas using JavaScript
 - I will not be accepting contributions to this repository
 - Creating a repository like this is discouraged by Codewars
 
-## Rank
-https://www.codewars.com/users/larainnepasion/badges/small
+## Badge
+[La Rainne's Codewars badge](https://www.codewars.com/users/larainnepasion/badges/small "La Rainne's Codewars badge")
