@@ -10,4 +10,4 @@ This repository contains my solutions to various Codewars katas using JavaScript
 - Creating a repository like this is discouraged by Codewars
 
 ## Badge
-[La Rainne's Codewars badge](https://www.codewars.com/users/larainnepasion/badges/small "La Rainne's Codewars badge")
+![La Rainne's Codewars badge](https://www.codewars.com/users/larainnepasion/badges/small "La Rainne's Codewars badge")
