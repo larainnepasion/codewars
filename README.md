@@ -8,3 +8,6 @@ This repository contains my solutions to various Codewars katas using JavaScript
 - Codewarriors should not submit these solutions as their own
 - I will not be accepting contributions to this repository
 - Creating a repository like this is discouraged by Codewars
+
+## Rank
+https://www.codewars.com/users/larainnepasion/badges/small
