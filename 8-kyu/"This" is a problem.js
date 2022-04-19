@@ -13,3 +13,8 @@ n.firstName //Expected: John
 n.lastName //Expected: Doe
 n.name //Expected: John Doe */
 
+function NameMe(first, last) {
+    this.firstName = first;
+    this.lastName = last;
+    this.name = `${first} ${last}`
+}
